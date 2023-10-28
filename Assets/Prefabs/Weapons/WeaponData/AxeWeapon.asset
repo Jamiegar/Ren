@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3de6f9e8e2bcc44eacbd785db064916, type: 3}
+  m_Name: AxeWeapon
+  m_EditorClassIdentifier: 
+  WeaponName: Axe
+  WeaponPrefab: {fileID: 1904128459199260471, guid: 75230795fb90bf44d812c132f0262019, type: 3}
+  SpriteData: {fileID: 11400000, guid: c193a1367a39b4546afed70dbe1833bb, type: 2}
+  Damage_Data: {fileID: 11400000, guid: eca7233f6c8e20f409183008061d49d5, type: 2}
+  Projectile_Data: {fileID: 11400000, guid: 61b2680d7304900418984e7d804b56a3, type: 2}
+  FireRate_Data: {fileID: 11400000, guid: 6e7a19b343dcd354d970fc5a93e7b651, type: 2}
+  Mods: []
